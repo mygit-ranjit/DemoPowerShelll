@@ -23,7 +23,6 @@ choco install kubernetes-helm -y;
 choco install googlechrome -y;
 
 
-
 #Installing DotNet
 #Invoke-WebRequest -Uri https://dotnet.microsoft.com/download/dotnet/scripts/v1/dotnet-install.ps1 -OutFile .\dotnet-install.ps1;
 #.\dotnet-install.ps1;
